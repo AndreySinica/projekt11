@@ -42,3 +42,5 @@ while a != 111 and b!=222:
     print("Зведення в ступінь результат:", exponentiation(a,b))
     print("Корінь квадратний результат:", reduction_to_the_square_root(a,b))
     print("Корінь кубічний результат:", reduction_to_the_cube_root(a,b))
+
+    # коментар
